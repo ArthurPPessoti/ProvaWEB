@@ -36,5 +36,5 @@ document.getElementById('enviar').addEventListener('click', function() {
 
     tabela.appendChild(thead);
     tabela.appendChild(tbody);
-    document.getElementById('tabela-container').appendChild(tabela);
+    document.getElementById('tabela-dados').appendChild(tabela);
 });
